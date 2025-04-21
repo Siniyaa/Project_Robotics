@@ -1,8 +1,4 @@
 pymdown-extensions
 mkdocs-glightbox
 python-markdown-math
-mkdocs>=1.0
-mkdocs-material>=7.0
-pymdown-extensions>=9.0
-mkdocs-glightbox>=0.7
-python-markdown-math>=0.7
+
