@@ -15,6 +15,11 @@ Detecting CAD at an early stage poses a formidable challenge. Numerous computati
 
 This research leverages the UK Biobank, a substantial biological and medical repository, to analyze clinical and genetic data and predict CAD risk. The ultimate goal is to develop personalized CAD treatment strategies that align with each individual’s unique genetic and medical profile, marking a transformative shift in healthcare.
 
+
+
+![CAD Progression Video](videos/video1.mp4)
+****: This video explains the progression of Coronary Artery Disease (CAD).
+
 ### References
 - Chen, X. et al. (2021). Early detection of Coronary Artery Disease. *Journal of Cardiology*.
 - Ayatollahi, H. et al. (2019). Predicting Heart Disease Mortality. *WHO Reports*.
