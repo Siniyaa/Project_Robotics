@@ -7,3 +7,5 @@
 /// caption
 The figures show the DSO in almost the same geometrical configuration. However, since the intersection order is different, the topology is different.
 ///
+
+## Methedology
